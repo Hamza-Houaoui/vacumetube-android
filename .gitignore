@@ -1,0 +1,14 @@
+
+# Auto-generated rules
+
+.gradle/
+build/
+**/build/
+.idea/
+local.properties
+*.apk
+*.aab
+*.iml
+.DS_Store
+captures/
+.cxx/

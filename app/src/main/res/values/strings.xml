@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VacuumTube</string>
+    <string name="settings_title">VacuumTube Settings</string>
+    <string name="settings_hint">Toggle options to apply them</string>
+    <string name="about_title">About</string>
+    <string name="about_text">VacuumTube for Android — YouTube TV (Leanback) wrapper for your phone. Ported from the desktop app: same interface, options and theme.</string>
+
+    <!-- Sections -->
+    <string name="section_playback">Playback</string>
+    <string name="section_ads_privacy">Ads &amp; Privacy</string>
+    <string name="section_content">Content</string>
+    <string name="section_advanced">Advanced</string>
+    <string name="section_userstyles">Custom CSS</string>
+
+    <!-- Playback -->
+    <string name="vol_title">Volume</string>
+    <string name="vol_desc">Starting video volume (0-100)</string>
+    <string name="fullscreen_title">Fullscreen</string>
+    <string name="fullscreen_desc">Launches in immersive fullscreen (auto-hides status/nav bars)</string>
+    <string name="keep_screen_on_title">Keep Screen On</string>
+    <string name="keep_screen_on_desc">Keeps the screen awake while the app is open</string>
+    <string name="pause_on_blur_title">Pause on Blur</string>
+    <string name="pause_on_blur_desc">Pause the video when the app is backgrounded</string>
+    <string name="unlock_res_title">Unlock Resolution</string>
+    <string name="unlock_res_desc">Removes the resolution cap. Relaunch after toggling</string>
+    <string name="remove_super_res_title">Remove Super Resolution</string>
+    <string name="remove_super_res_desc">Removes \u201CSuper resolution\u201D (AI upscaled) qualities</string>
+    <string name="h264ify_title">Filter Video Codecs</string>
+    <string name="h264ify_desc">Codec filtering options</string>
+    <string name="h264ify_enable_title">Enable codec filter (h264ify)</string>
+    <string name="h264ify_disable_webm">Block WebM</string>
+    <string name="h264ify_disable_vp8">Block VP8</string>
+    <string name="h264ify_disable_vp9">Block VP9</string>
+    <string name="h264ify_disable_av1">Block AV1</string>
+    <string name="low_memory_title">Low Memory Mode</string>
+    <string name="low_memory_desc">Tells YouTube to use its low memory mode. Relaunch after toggling</string>
+
+    <!-- Ads & Privacy -->
+    <string name="adblock_title">Ad Block</string>
+    <string name="adblock_desc">Seamlessly blocks video and feed ads</string>
+    <string name="sponsorblock_title">SponsorBlock</string>
+    <string name="sponsorblock_desc">Skips sponsor segments from a crowdsourced database</string>
+    <string name="dearrow_title">DeArrow</string>
+    <string name="dearrow_desc">Replaces titles and thumbnails with less sensationalized versions</string>
+    <string name="dislikes_title">Return Dislikes</string>
+    <string name="dislikes_desc">Shows rough dislike counts from community data</string>
+
+    <!-- Content -->
+    <string name="hide_shorts_title">Hide Shorts</string>
+    <string name="hide_shorts_desc">Hides YouTube Shorts from the homepage</string>
+    <string name="touch_overlay_title">Touch Overlay</string>
+    <string name="touch_overlay_desc">On-screen D-Pad for easier navigation on touch screens</string>
+    <string name="music_mode_title">Music Mode</string>
+    <string name="music_mode_desc">Adds a Music Mode toggle to the video settings menu for audio-only playback (experimental)</string>
+    <string name="guide_tabs_title">Guide Tabs</string>
+    <string name="guide_tabs_desc">Choose which sidebar guide tabs are shown</string>
+
+    <!-- Advanced -->
+    <string name="device_discoverability_title">Device Discoverability</string>
+    <string name="device_discoverability_desc">No-op on Android (native casting is used)</string>
+
+    <!-- Userstyles -->
+    <string name="userstyles_title">Custom CSS (Userstyles)</string>
+    <string name="userstyles_desc">Import .css files to customize the interface</string>
+    <string name="userstyles_enable">Enable Userstyles</string>
+    <string name="userstyles_import">Import .css</string>
+    <string name="userstyles_clear">Remove all</string>
+    <string name="userstyles_none">No userstyles imported</string>
+    <string name="userstyles_folder_path">Files are stored in the app\u2019s internal folder.</string>
+
+    <!-- Guide tabs -->
+    <string name="tab_search">Search</string>
+    <string name="tab_shorts">Shorts</string>
+    <string name="tab_subscriptions">Subscriptions</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_gaming">Gaming</string>
+    <string name="tab_music">Music</string>
+    <string name="tab_news">News</string>
+    <string name="tab_podcasts">Podcasts</string>
+    <string name="tab_movies_and_tv">Movies &amp; TV</string>
+    <string name="tab_live">Live</string>
+    <string name="tab_sports">Sports</string>
+
+    <!-- Misc -->
+    <string name="sponsor_skip_sponsor">Skip Sponsor</string>
+    <string name="sponsor_skip_selfpromo">Skip Self Promo</string>
+    <string name="sponsor_skip_interaction">Skip Interaction</string>
+    <string name="sponsor_skip_intro">Skip Intro</string>
+    <string name="sponsor_skip_outro">Skip Outro</string>
+    <string name="sponsor_skip_preview">Skip Preview</string>
+    <string name="sponsor_skip_hook">Skip Hook/Greetings</string>
+    <string name="sponsor_skip_filler">Skip Tangents/Jokes</string>
+</resources>
